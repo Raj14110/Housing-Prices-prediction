@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+tensorflow_decision_forests
